@@ -1,0 +1,41 @@
+
+	
+	}
+	.home
+	{
+		text-align: center;
+		font-family: Raleway;
+	}
+	.home
+	{
+		font-family: Raleway;
+	}
+	.rehan
+	{
+		text-align: right;
+		margin: 80px;
+	}
+	.navbar
+	{
+		margin-top: -32px;
+	}
+	.ship
+	{
+		text-align: center;
+		background: #24C1F5;
+		color: purple;
+	 }
+	 .pantry
+	 {
+	 	text-align: center;
+	 	background: purple;
+	 }
+	 .hi > div
+	 {
+             margin: 10px;
+             font-size: 30px;
+	 }
+	 .hi{
+			display: flex;
+			text-align: center;
+		}
